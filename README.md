@@ -15,4 +15,3 @@ Adam Wysocki
 
 ##
 
-Politechnika Gdańska 2022
